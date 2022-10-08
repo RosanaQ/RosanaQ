@@ -2,7 +2,6 @@
 @@ -0,0 +1,97 @@
 # Rosana Quispe
 
-<img class="alignnone wp-image-8259 size-full entered lazyloaded" src="http://bri.uy/gif/abstracto/jodi.gif" alt="ROSANA" width="700" height="330" data-lazy-src="http://bri.uy/gif/abstracto/jodi.gif" data-ll-status="loaded">
-
+<img class="alignnone size-full wp-image-8007 entered lazyloaded" src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" alt="Programación de videojuegos" width="700" height="330" data-lazy-src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" data-ll-status="loaded">
 
 
