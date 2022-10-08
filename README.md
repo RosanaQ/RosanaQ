@@ -2,6 +2,5 @@
 @@ -0,0 +1,97 @@
 # Rosana Quispe
 
-
-<img class="mfp-img" src="https://diario10.com.ar/wp-content/uploads/2022/02/playas-doradas-RN.jpg" style="max-height: 937px;">
+<img class="alignnone wp-image-8259 size-full entered lazyloaded" src="https://experienciajoven.com/wp-content/uploads/2020/11/cursos-de-programacion-gratis-02.gif" alt="Donde aprender a programar sin pagar" width="700" height="330" data-lazy-src="https://experienciajoven.com/wp-content/uploads/2020/11/cursos-de-programacion-gratis-02.gif" data-ll-status="loaded">
 
