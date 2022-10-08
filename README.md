@@ -11,17 +11,17 @@
 <img class="d-block width-fit height-auto rounded-1" src="/images/hula_loop_octodex03.gif" data-src="/images/hula_loop_octodex03.gif" data-srcset="/images/hula_loop_octodex03.gif 1x" alt="Hulatocat" width="300" height="400" srcset="/images/hula_loop_octodex03.gif 1x">
 
 
-# Connect with me<img src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif](https://github.com/RosanaQ)" height="32px">
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg](https://github.com/RosanaQ)" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <a href="https://twitter.com">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="h[ttps://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg](https://github.com/RosanaQ)" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg](https://github.com/RosanaQ)" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="[mailto:goyalsatyam8@gmail.com](https://www.google.com/intl/es-419/gmail/about/)">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg](https://github.com/RosanaQ)" />
   </a>
