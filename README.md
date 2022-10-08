@@ -16,9 +16,6 @@ func main() {
 	}
 }
 
-```![image](https://user-images.githubusercontent.com/106833817/194685101-c3ee5ee8-2555-4073-8be7-f4281d809987.png)
-
-
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
