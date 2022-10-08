@@ -11,8 +11,7 @@
 <img class="d-block width-fit height-auto rounded-1" src="/images/hula_loop_octodex03.gif" data-src="/images/hula_loop_octodex03.gif" data-srcset="/images/hula_loop_octodex03.gif 1x" alt="Hulatocat" width="300" height="400" srcset="/images/hula_loop_octodex03.gif 1x">
 
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
+# Connect with me <img src="/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" alt="Handshake.gif">
   <a href="https://www.linkedin.com/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
