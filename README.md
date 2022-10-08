@@ -1,6 +1,4 @@
-### HOLA! 👋  MI NOMBRE ES <a href="https://picasion.com/gl/gmsm/"><img src="https://i.picasion.com/gl/92/gmsm.gif" width="200" height="31" border="0" alt="glitter maker" /></a><br />
-
-<img class="alignnone size-full wp-image-8007 entered lazyloaded" src="https://octodex.github.com/images/mona-the-rivetertocat.png" alt="Programación de videojuegos" width="200" height="230" data-lazy-src="[https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif](https://octodex.github.com/images/mona-the-rivetertocat.png)" data-ll-status="loaded">
+### HOLA! 👋  MI NOMBRE ES <a href="https://picasion.com/gl/gmsm/"><img src="https://i.picasion.com/gl/92/gmsm.gif" width="200" height="31" border="0" alt="glitter maker" /></a><br /><img class="alignnone size-full wp-image-8007 entered lazyloaded" src="https://octodex.github.com/images/mona-the-rivetertocat.png" alt="Programación de videojuegos" width="200" height="230" data-lazy-src="[https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif](https://octodex.github.com/images/mona-the-rivetertocat.png)" data-ll-status="loaded">
 
 
 # Estudiante de ISPC https://www.ispc.edu.ar/
