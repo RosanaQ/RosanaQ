@@ -10,7 +10,7 @@
 # Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif?raw=true" height="70px">
   <a href="https://www.linkedin.com/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbspp;
+  </a>
   <a href="https://twitter.com/@Rosanagq">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
